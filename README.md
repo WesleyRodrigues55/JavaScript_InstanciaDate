@@ -5,7 +5,7 @@ Toda exibição a baixo vem direto da instância Date() com a data e hora corren
 <br><br>
 Projeto:
 <br>
-Código JavaScript:
+Código JavaScript
 <img src="js.png">
 <br><br>
 Código HTML

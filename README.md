@@ -8,7 +8,7 @@ Projeto:
 <img src="img/gif.gif">
 <br><br>
 Código JavaScript:
-<img src="img/js.png">
+<img src="img/javascript.png">
 <br><br>
 Código HTML:
 <br>

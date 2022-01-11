@@ -4,50 +4,50 @@ const zeroFill = n => {
 
 function numbes_in_months() {
     var all_months = month()
-    var lis_month = ''
+    var list_month = ''
     switch (all_months) {
         case 0:
-            lis_month = 'Janeiro'
+            list_month = 'Janeiro'
             break
         case 1:
-            lis_month = 'Fevereiro'
+            list_month = 'Fevereiro'
             break
         case 2:
-            lis_month = 'Março'
+            list_month = 'Março'
             break
         case 3:
-            lis_month = 'Abril'
+            list_month = 'Abril'
             break
         case 4:
-            lis_month = 'Maio'
+            list_month = 'Maio'
             break
         case 5:
-            lis_month = 'Junho'
+            list_month = 'Junho'
             break
         case 6:
-            lis_month = 'Julho'
+            list_month = 'Julho'
             break
         case 7:
-            lis_month = 'Agosto'
+            list_month = 'Agosto'
             break
         case 8:
-            lis_month = 'Setembro'
+            list_month = 'Setembro'
             break
         case 9:
-            lis_month = 'Outubro'
+            list_month = 'Outubro'
             break
         case 10:
-            lis_month = 'Novembro'
+            list_month = 'Novembro'
             break
         case 11:
-            lis_month = 'Dezembro'
+            list_month = 'Dezembro'
             break
         default:
-            lis_month = undefined
+            list_month = undefined
             break
     }
 
-    return lis_month
+    return list_month
 }
 
 function intance_date() {

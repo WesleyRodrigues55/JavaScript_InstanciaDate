@@ -4,15 +4,16 @@ Projeto simples usando o conceito da instância  Date() do JavaScript
 Toda exibição a baixo vem direto da instância Date() com a data e hora corrente de acordo com as configurações do sistema.
 <br><br>
 Projeto:
+<img src="img/gif.gif">
 <br>
-Código JavaScript
-<img src="js.png">
+Código JavaScript:
+<img src="img/js.png">
 <br><br>
-Código HTML
+Código HTML:
 <br>
-<img src="html.png">
+<img src="img/html.png">
 <br><br>
-Código CSS
+Código CSS:
 <br>
-<img src="css.png">
+<img src="img/css.png">
 

@@ -1,0 +1,59 @@
+html,
+body,
+.box {
+    height: 100%;
+}
+
+.body {
+    overflow-x: hidden;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    background: #333;
+}
+
+.box {
+    display: table;
+    width: 100%;
+}
+
+.content_box {
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.content_formated {
+    /* box-shadow: 0 0 5px 0 #fff; */
+    border-radius: 5px;
+    padding: 20px 10px;
+    margin: 10px;
+}
+
+.date {
+    font-size: 50px;
+    color: #333;
+}
+
+.hours {
+    font-size: 100px;
+    color: #38ff00;
+    border-bottom: 1px solid #333;
+}
+
+.author {
+    font-size: 25px;
+    color: #333;
+    padding: 10px;
+}
+
+@media screen and (max-width: 768px) {
+    .content_formated {
+        box-shadow: 0 0 5px 0 transparent;
+    }
+    .date {
+        font-size: 30px;
+    }
+    .hours {
+        font-size: 70px;
+    }
+}

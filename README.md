@@ -6,6 +6,12 @@ Toda exibição a baixo vem direto da instância Date() com a data e hora corren
 Projeto:
 <img src="gif.gif">
 <br>
-Código:
-<img src="code.png">
+Código JavaScript:
+<img src="js.png">
+<br>
+Código HTML
+<img src="html.png">
+<br>
+Código CSS
+<img src="css.png">
 
